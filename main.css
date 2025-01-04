@@ -7,4 +7,35 @@ box-sizing: border-box;
     background: white;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+.a.logo {
+
+}
+.left li {
+    display: inline-block;
+    list-style: none;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+.left li a {
+    text-decoration: none;
+}
+.right li {
+    display: inline-block;
+    list-style: none;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+.right li a {
+    text-decoration: none;
+}
+.right2 li {
+    display: inline-block;
+    list-style: none;
+    padding: 10px 20px;
+    font-size: 18px;
+}
+.right2 li a {
+    text-decoration: none;
 }
