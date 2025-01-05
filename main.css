@@ -1,41 +1,14 @@
-* {
-margin: 0;
-padding: 0;
-box-sizing: border-box;
-}
-.nav {
-    background: white;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.a.logo {
-
-}
-.left li {
-    display: inline-block;
+.list li {
     list-style: none;
-    padding: 10px 20px;
-    font-size: 18px;
 }
-.left li a {
-    text-decoration: none;
-}
-.right li {
-    display: inline-block;
+.list1 li {
     list-style: none;
-    padding: 10px 20px;
-    font-size: 18px;
+    display: inline;
 }
-.right li a {
-    text-decoration: none;
-}
-.right2 li {
-    display: inline-block;
+.list2 li{
     list-style: none;
-    padding: 10px 20px;
-    font-size: 18px;
+    display: inline;
 }
-.right2 li a {
-    text-decoration: none;
+.list3 li {
+    list-style: none;
 }
