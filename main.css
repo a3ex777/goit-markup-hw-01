@@ -1,14 +1,16 @@
-.list li {
+.list_header {
     list-style: none;
 }
-.list1 li {
+.list_advantages {
+    list-style: none;
+}
+.list_whatwedo {
     list-style: none;
     display: inline;
 }
-.list2 li{
+.list_ourteam {
     list-style: none;
-    display: inline;
 }
-.list3 li {
+.list_contacts {
     list-style: none;
 }
